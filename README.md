@@ -36,7 +36,7 @@ parent-folder
     - **models.py**: Defines the database models for user data.
     - **forms.py**: Contains the form classes for user input handling.
     - **templates/**: Directory for HTML templates.
-        - **base.html**: Base template that other templates extend from.
+        - **base.html**: A base template that other templates extend from.
         - **login.html**: Template for the login page.
         - **register.html**: Template for the registration page.
         - **dashboard.html**: Template for the user dashboard.
@@ -49,7 +49,7 @@ parent-folder
 
 - **config.py**: Configuration file for the Flask application.
 - **run.py**: The entry point for running the Flask application.
-- **README.md**: This file, providing an overview of the project.
+- **README.md**: This file, provides an overview of the project.
 
 ## Getting Started
 
@@ -75,12 +75,6 @@ To get started with this project, follow these steps:
      python run.py
      ```
 
-## Features
-
-- User registration and login
-- Secure password hashing
-- User session management
-
 ## License
 
 This project is licensed under the MIT License.
@@ -90,7 +84,7 @@ This project is licensed under the MIT License.
 If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with clear and concise messages.
 4. Push your changes to your forked repository.
 5. Create a pull request to the main repository.
